@@ -3,10 +3,12 @@
 This mod replaces all of the games music, from the opening cutscene all the way to the end credits, with metal covers.
 
 This includes things like:
-- Boss fights
+- Boss tracks
 - Area tracks
-- Needolin
-- And more!
+- Needolin (All variants)
+- Cutscenes
+- Psalm Cylinders
+- And **so much more**.
 
 ## Credits
 - **Maskedcreeper10**: Mod programmer.
