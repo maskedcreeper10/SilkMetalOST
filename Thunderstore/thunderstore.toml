@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "Maskedcreeper10_RYS"
 name = "MetalOST"
-versionNumber = "1.0.0"
+versionNumber = "1.0.1"
 description = "A mod that aims to replace all of Silksong's original music with hand made metal covers by RYS"
 websiteUrl = "https://github.com/maskedcreeper10/SilkMetalOST"
 containsNsfwContent = false
@@ -17,7 +17,10 @@ readme = "../README.md"
 outdir = "./dist"
 
 [[build.copy]]
-source = "../bin/Debug/netstandard2.1.MetalOST.dll"
+source = "../bin/Debug/netstandard2.1/MetalOST.dll"
+target = "/"
+[[build.copy]]
+source = "./CHANGELOG.md"
 target = "/"
 
 

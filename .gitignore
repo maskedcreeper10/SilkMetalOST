@@ -485,5 +485,5 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 /Resources/Assetbundles/audioassetbundle
-/Resources/Assetbundles/choiraudioassetbundle
-/Resources/Assetbundles/videoassetbundle
+/Resources
+/Thunderstore/dist
