@@ -33,4 +33,4 @@ This includes things like:
 
 - All of the people in the RYS discord, which have helped a lot with design choices.
 
-- And of course **Team Cherry** and **Christopher Larkin** for making Silksong and it's beautifull soundtrack.
+- And of course **Team Cherry** and **Christopher Larkin** for making Silksong and it's beautiful soundtrack.
